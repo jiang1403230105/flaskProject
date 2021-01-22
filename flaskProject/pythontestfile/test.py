@@ -1,0 +1,3 @@
+import pian_function
+
+pian_function.foo
